@@ -1,7 +1,6 @@
 # Media Services Code Snippets
+This repository is used for housing code snippets for the Media Services documentation. 
 
-(short, 1-3 sentenced, description of the project)
+## Media Service samples
 
-## Use
-
-This repository is used for housing code snippets for the Media Services documentation. If you would like to download full code samples, search for "media-services" from the Azure-Samples repo.
+If you would like to download full code samples, search for "media-services" from the Azure-Samples repo.
